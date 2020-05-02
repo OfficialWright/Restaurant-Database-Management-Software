@@ -3,6 +3,8 @@ A Java Swing application for managing a restaurants database
 
 This project uses UCanAccess 4.0.1 to execute sql commands to input data into Restaurant.accdb
 
+All database information is falsified
+
 ## Inserts
 ### Part 1
 <img src="media/insert_1.gif">
